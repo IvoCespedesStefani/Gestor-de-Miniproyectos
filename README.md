@@ -1,5 +1,4 @@
-#Miniproyecto
-# Organizador de Tareas en Python
+#Miniproyecto: Organizador de Tareas en Python
 
 Este es un **organizador de tareas** desarrollado en Python, que permite gestionar proyectos y tareas. Puedes **crear, editar, eliminar y listar tareas**, así como gestionar y personalizar proyectos.
 
